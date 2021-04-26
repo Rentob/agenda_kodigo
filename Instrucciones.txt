@@ -1,0 +1,8 @@
+1. Compilar el proyecto con maven (build, install)para generar el jar
+2. abrir una consola de comandos y buscar donde se genero el archivo jar ubicarse en el directorio
+3. ejecutar java -jar agenda-0.0.1-SNAPSHOT.jar para correr la aplicacion 
+4. dentro de la carpeta esta una colleccion de Postman con las peticiones a los diferentes endpoint de la api.
+5. si desea abrir el dashboard de la base H2 ingrese a la url http://localhost:8080/h2-console/
+6. estando en el login de la base H2 solo haga clic en el boton de login
+7. cuando se crea la base se proporcionan datos de muestra.
+8. dentro del proyecto en el directorio resources se encuentra un archivo sql con el nombre de schema.sql con los insert y la creacion de tablas iniciales.
